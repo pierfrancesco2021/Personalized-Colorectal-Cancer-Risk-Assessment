@@ -1,4 +1,5 @@
 # Personalized Colorectal Cancer Risk Assessment through Explainable AI and Gut Microbiome Profiling
+[![DOI](https://zenodo.org/badge/1029577614.svg)](https://doi.org/10.5281/zenodo.16778479)
 
 ![Graphical Abstract](graphical_abstract.png)
 
