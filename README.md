@@ -1,1 +1,33 @@
-# Personalized-Colorectal-Cancer-Risk-Assessment
+# Personalized Colorectal Cancer Risk Assessment through Explainable AI and Gut Microbiome Profiling
+
+![Graphical Abstract](graphical_abstract.png)
+
+## 📄 Paper Information
+
+**Title:** Personalized colorectal cancer risk assessment through explainable AI and Gut microbiome profiling  
+**Authors:** Pierfrancesco Novielli, Simone Baldi, Donato Romano, Michele Magarelli, Domenico Diacono, Pierpaolo Di Bitonto, Giulia Nannini, Leandro Di Gloria, Roberto Bellotti, Amedeo Amedei & Sabina Tangaro  
+**Journal:** *Gut Microbes*, Volume 17, 2025  
+**DOI:** [10.1080/19490976.2025.2543124](https://doi.org/10.1080/19490976.2025.2543124)  
+**Published:** August 4, 2025  
+**Supplementary Data:**  
+- [Training Datasets - Zenodo](https://zenodo.org/...)  
+- [Independent Validation Set - GEO (GSE163366)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE163366)
+
+---
+
+## 🧠 Project Overview
+
+This repository contains the source code and environment specifications used for the analysis presented in the manuscript.  
+The goal of the study was to identify explainable microbiome-derived biomarkers for colorectal cancer risk prediction using 16S rRNA data and XAI (SHAP-based) analysis.
+
+The analysis includes:
+- Preprocessing of microbiome and metadata
+- ML model training (XGBoost, Random Forest, CatBoost)
+- Global and local explanation using SHAP
+- Embedding and clustering of adenoma patients
+- SHAP interaction network analysis
+
+---
+
+## 📁 Repository Structure
+
