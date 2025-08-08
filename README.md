@@ -13,6 +13,10 @@
 - [Training Datasets - Zenodo](https://zenodo.org/...)  
 - [Independent Validation Set - GEO (GSE163366)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE163366)
 
+<p align="center">
+<img src="gut_microbes_cover.png" alt="Gut Microbes Cover" width="300"/>
+</p>
+
 ---
 
 ## 🧠 Project Overview
