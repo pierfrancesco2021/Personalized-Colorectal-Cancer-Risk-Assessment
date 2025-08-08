@@ -43,7 +43,7 @@ The analysis includes:
 The analysis was conducted in Python on the following system:
 
 - **Operating System:** macOS 15.6  
-- **Python Version:** 3.12.5
+- **Python Version:** 3.11.12
 
 To reproduce the computational environment used in the study, we provide a Conda environment file.
 
