@@ -35,3 +35,29 @@ The analysis includes:
 
 ## 📁 Repository Structure
 
+
+---
+
+## ⚙️ Environment Setup
+
+The analysis was conducted in Python on the following system:
+
+- **Operating System:** macOS 15.6  
+- **Python Version:** 3.12.5
+
+To reproduce the computational environment used in the study, we provide a Conda environment file.
+
+### 🛠️ Installation
+
+Make sure you have [Anaconda](https://www.anaconda.com/download) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed. Then:
+
+```bash
+# Clone the repository
+git clone https://github.com/pierfrancesco2021/Personalized-Colorectal-Cancer-Risk-Assessment.git
+cd CRC_microbiome_XAI
+
+# Create environment from YAML
+conda env create -f environment.yml
+
+# Activate the environment
+conda activate microbiome-crc
