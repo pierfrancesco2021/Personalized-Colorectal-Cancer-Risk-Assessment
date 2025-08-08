@@ -1,6 +1,6 @@
 # Personalized Colorectal Cancer Risk Assessment through Explainable AI and Gut Microbiome Profiling
 
-![Graphical Abstract](graphical_abstract.png)
+![Graphical Abstract](graphical abstract.png)
 
 ## 📄 Paper Information
 
