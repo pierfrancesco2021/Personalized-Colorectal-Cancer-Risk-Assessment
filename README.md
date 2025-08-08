@@ -33,10 +33,6 @@ The analysis includes:
 
 ---
 
-## 📁 Repository Structure
-
-
----
 
 ## ⚙️ Environment Setup
 
@@ -61,3 +57,14 @@ conda env create -f environment.yml
 
 # Activate the environment
 conda activate microbiome-crc
+
+---
+
+## 📊 SHAP Interaction Network Visualization
+
+The notebook `notebooks/shapInteraction_risk.ipynb` computes and saves:
+- **Node matrix** (`nodes.csv`)
+- **Link matrix** (`edges.csv`)
+
+These files represent the SHAP-based interaction network and can be directly imported into [Gephi](https://gephi.org/) for interactive visualization and exploration.
+
