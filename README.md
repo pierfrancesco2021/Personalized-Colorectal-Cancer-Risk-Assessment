@@ -60,7 +60,7 @@ conda activate microbiome-crc
 
 ---
 
-## 📊 SHAP Interaction Network Visualization
+### 📊 SHAP Interaction Network Visualization
 
 The notebook `notebooks/shapInteraction_risk.ipynb` computes and saves:
 - **Node matrix** (`nodes.csv`)
